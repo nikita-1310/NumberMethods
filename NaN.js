@@ -1,0 +1,7 @@
+console.log(NaN+3)
+console.log(NaN-3)
+console.log(NaN-NaN)
+console.log(NaN*NaN)
+console.log(NaN+"Nikita")
+console.log(NaN*"Nikita")
+console.log(typeof(NaN))
